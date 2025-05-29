@@ -7,8 +7,8 @@ const About = () => {
       <h1 className="my-20 size-full text-center text-4xl font-bold">About
         <span className="text-neutral-500"> Me </span>
       </h1>
-      <div className="flex ">
-        <div className="w-full lg:w-1/2 lg:p-8">
+      <div className="flex " >
+        <div className="w-full lg:w-1/2 sm:w-1 lg:p-8">
           <div className="flex items-center justify-center">
             <img className="rounded-2xl" src={aboutImg} alt="about" />
           </div>
