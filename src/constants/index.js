@@ -56,8 +56,9 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Saundarya Colony Nakhate Vasti Pimpri Chinchawad Pune.",
+  address: "Saundarya Colony, Nakhate Vasti, Pimpri Chinchawad, Pune.",
   phoneNo: " +91 7888 200 887 ",
-  email: " firakeyogesh1998@gmail.com",
+  email: "firakeyogesh1998@gmail.com"
+    "firakeyogesh@gmail.com",
   Linkedin: " https://www.linkedin.com/in/yogesh-firake-3567771ba",
 };
