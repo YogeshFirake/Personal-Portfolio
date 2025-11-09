@@ -56,8 +56,8 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: " At Po. Engaon Tal. Bodwad Dist. Jalgaon - 425310",
+  address: "Saundarya Colony Nakhate Vasti Pimpri Chinchawad Pune.",
   phoneNo: " +91 7888 200 887 ",
-  email: " firakeyogesh@gmail.com",
+  email: " firakeyogesh1998@gmail.com",
   Linkedin: " https://www.linkedin.com/in/yogesh-firake-3567771ba",
 };
